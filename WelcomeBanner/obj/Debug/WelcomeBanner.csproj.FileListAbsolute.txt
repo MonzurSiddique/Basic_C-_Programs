@@ -1,0 +1,7 @@
+C:\Users\mhsid\source\repos\WelcomeBanner\bin\Debug\WelcomeBanner.exe.config
+C:\Users\mhsid\source\repos\WelcomeBanner\bin\Debug\WelcomeBanner.exe
+C:\Users\mhsid\source\repos\WelcomeBanner\bin\Debug\WelcomeBanner.pdb
+C:\Users\mhsid\source\repos\WelcomeBanner\obj\Debug\WelcomeBanner.csproj.AssemblyReference.cache
+C:\Users\mhsid\source\repos\WelcomeBanner\obj\Debug\WelcomeBanner.csproj.CoreCompileInputs.cache
+C:\Users\mhsid\source\repos\WelcomeBanner\obj\Debug\WelcomeBanner.exe
+C:\Users\mhsid\source\repos\WelcomeBanner\obj\Debug\WelcomeBanner.pdb
