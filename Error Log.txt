@@ -1,0 +1,11 @@
+
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS0136	A local or parameter named 'player' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter	Casino	C:\Users\mhsid\source\repos\Casino\TwentyOneGame.cs	51	Active
+Error	CS0136	A local or parameter named 'player' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter	Casino	C:\Users\mhsid\source\repos\Casino\TwentyOneGame.cs	82	Active
+Error	CS0136	A local or parameter named 'player' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter	Casino	C:\Users\mhsid\source\repos\Casino\TwentyOneGame.cs	146	Active
+Error	CS0246	The type or namespace name 'Player' could not be found (are you missing a using directive or an assembly reference?)	TwentyOne	C:\Users\mhsid\source\repos\TwentyOne\Program.cs	49	Active
+Error	CS0246	The type or namespace name 'Player' could not be found (are you missing a using directive or an assembly reference?)	TwentyOne	C:\Users\mhsid\source\repos\TwentyOne\Program.cs	49	Active
+Error	CS0246	The type or namespace name 'Game' could not be found (are you missing a using directive or an assembly reference?)	TwentyOne	C:\Users\mhsid\source\repos\TwentyOne\Program.cs	56	Active
+Error	CS0246	The type or namespace name 'TwentyOneGame' could not be found (are you missing a using directive or an assembly reference?)	TwentyOne	C:\Users\mhsid\source\repos\TwentyOne\Program.cs	56	Active
+Error	CS0246	The type or namespace name 'FraudException' could not be found (are you missing a using directive or an assembly reference?)	TwentyOne	C:\Users\mhsid\source\repos\TwentyOne\Program.cs	66	Active
